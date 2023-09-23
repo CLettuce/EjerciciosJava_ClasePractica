@@ -69,7 +69,6 @@ public class Ejercicio3 {
         System.out.println();
     }
 
-
     public static int busquedaBinaria(int[] arr, int elemento) {
         int izquierda = 0;
         int derecha = arr.length - 1;
